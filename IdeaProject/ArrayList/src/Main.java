@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -23,7 +24,7 @@ public class Main {
                 } else {
                     try {
                         int index = Integer.parseInt(command[1]);
-                        String todo = command[2];
+                        String todo = String.join(" ", Arrays.copyOfRange(command, 2, command.length));
                         toDoList.addToDoListByIndex(index, todo);
                     } catch (NumberFormatException e) {
                         System.out.println("Указан некорректный номер индекса");
@@ -38,7 +39,7 @@ public class Main {
                 else {
                     try {
                         int index = Integer.parseInt(command[1]);
-                        String todo = command[2];
+                        String todo = String.join(" ", Arrays.copyOfRange(command, 2, command.length));
                         toDoList.editToDoListByIndex(index, todo);
                     } catch (NumberFormatException e) {
                         System.out.println("Указан некорректный номер индекса");

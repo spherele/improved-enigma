@@ -1,7 +1,13 @@
 import java.util.ArrayList;
 
 public class ToDoList {
-    ArrayList<String> toDoList = new ArrayList<String>();
+    ArrayList<String> toDoList = new ArrayList<String>(){{
+        add("First deed");
+        add("Second deed");
+        add("Third deed");
+        add("Fourth deed");
+        add("Fifth deed");
+    }};
     public void listToDoList(){
         if (toDoList.isEmpty()) System.out.println("Список дел пуст");
         else {
