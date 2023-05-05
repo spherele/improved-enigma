@@ -9,5 +9,7 @@ I'm a student (Masters degree) of Novosibirsk State Technical University,
 ## 🛠 Skills
 Java, C/C++, Python. Learning Kotlin, Scala now
 
+
+## 📈 Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spherele)](https://git.io/streak-stats)
 
