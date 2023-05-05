@@ -9,5 +9,5 @@ I'm a student(Maste) of Novosibirsk State Technical University,
 ## 🛠 Skills
 Java, C/C++, Python. Learning Kotlin, Scala now
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=spherele)](https://git.io/streak-stats)
 
