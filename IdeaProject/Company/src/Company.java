@@ -38,4 +38,8 @@ class Company {
         lowSalaryStaff.sort(Comparator.comparingInt(Employee::getMonthSalary));
         return lowSalaryStaff.subList(0, count);
     }
+
+    public List<Employee> getEmployees() {
+        return employees;
+    }
 }
