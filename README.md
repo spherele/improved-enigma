@@ -3,7 +3,7 @@
 <h3 align="center">Computer science student from Russia 🇷🇺</h3>
 
 ## 🚀 About Me
-I'm a student (Masters degree) of Novosibirsk State Technical University, 
+I'm a student (Masters degree) of Novosibirsk State Technical University 
 
 
 ## 🛠 Skills
